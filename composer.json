@@ -2,7 +2,6 @@
     "name": "laravel/laravel",
     "type": "project",
     "description": "TodoList Web App using Vue.js and The Laravel Framework.",
-    "homepage": "https://github.com/mulugu/laravel-vuejs-todolist",
     "keywords": [
         "TodoList",
         "framework",
