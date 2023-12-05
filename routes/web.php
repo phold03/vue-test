@@ -12,7 +12,6 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-// The root uri of application
 Route::get('/', 'TodoItemController@index')->name('showTodosPage');
 Route::get('/todos', 'TodoItemController@todos')->name('loadTodos');
 Route::post('/todos', 'TodoItemController@store')->name('storeTodos');
