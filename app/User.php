@@ -8,7 +8,6 @@ use Illuminate\Notifications\Notifiable;
 
 /**
  * Class User
- * Created by Kevin Mulugu (kevinmulugu@gmail.com)
  * @package App\
  */
 class User extends Authenticatable

@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 
 /**
  * Class TodoItemController
- * Created by Kevin Mulugu (kevinmulugu@gmail.com)
  * @package App\Http\Controllers
  */
 class TodoItemController extends Controller

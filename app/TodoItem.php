@@ -9,7 +9,6 @@ use Ramsey\Uuid\Uuid;
 
 /**
  * Class TodoItem
- * Created by Kevin Mulugu (kevinmulugu@gmail.com)
  * @package App
  */
 class TodoItem extends Model
